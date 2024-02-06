@@ -1,7 +1,7 @@
 {
   "name": "portfolio-project",
   "version": "0.1.0",
-  "homepage": "http://Shabbo0o.github.io/portfolio",
+  "homepage": "https://Shabbo0o.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
