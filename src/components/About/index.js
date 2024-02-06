@@ -33,22 +33,22 @@ const About = () => {
 
   const renderExperienceParagraphs = () => {
     const allParagraphs = [
-      `Python programming basics: HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
-      Python programming Advanced: Object Oriented, Web development, Django.
-      Database: SQL, NoSQL, MongoDB, MySQL, SQLite.
-      IT-security: Penetration testing, Ethical Hacking, SQL injections, Social Engineering.
-      Virtual Machines, Kali-Linux.
-      Cloud services: Azure, Repl.it, DevOps, Docker.`,
-      `Working with <b>visual editors</b> like <b>Webflow</b> enriched my <b>frontend development</b> skills. This journey, from intern to project leader, has honed my leadership and technical abilities, making me adept for a frontend developer role.`,
-      `I was responsible and a lead for the Requirement Analysis, <b>Database Design</b>, creating the <b>Use Case documents</b>, <b>Class diagram</b>, Test Case, and other relevant subjects.`
-     // `- <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.
-     //  - <b>Methodology</b>: Scrum/Agile, GitHub.
-     //  - <b>Database</b>: MySQL, MongoDB, SQLite.
-     //  - <b>IT security</b>: Penetration testing, Ethical Hacking, SQL injections, Social Engineering, Virtual Machines, Kali-Linux.
-     //  - <b>Cloud services</b>: Azure, Repl.it, DevOps, Docker.
-     //  - An E-Commerce Project: I am writing an e-commerce site using Django, JavaScript, HTML, CSS, and MySQL.
-     //  - Portfolio: A portfolio project, written in ReactJS. Link in my Github profile page.
-     //  - A frontend project for a hypothetical restaurant, written in JavaScript, and BootStrap.`
+      // `Python programming basics: HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
+      // Python programming Advanced: Object Oriented, Web development, Django.
+      // Database: SQL, NoSQL, MongoDB, MySQL, SQLite.
+      // IT-security: Penetration testing, Ethical Hacking, SQL injections, Social Engineering.
+      // Virtual Machines, Kali-Linux.
+      // Cloud services: Azure, Repl.it, DevOps, Docker.`,
+      // `Working with <b>visual editors</b> like <b>Webflow</b> enriched my <b>frontend development</b> skills. This journey, from intern to project leader, has honed my leadership and technical abilities, making me adept for a frontend developer role.`,
+      // `I was responsible and a lead for the Requirement Analysis, <b>Database Design</b>, creating the <b>Use Case documents</b>, <b>Class diagram</b>, Test Case, and other relevant subjects.`
+     `- <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.
+      - <b>Methodology</b>: Scrum/Agile, GitHub.
+      - <b>Database</b>: MySQL, MongoDB, SQLite.
+      - <b>IT security</b>: Penetration testing, Ethical Hacking, SQL injections, Social Engineering, Virtual Machines, Kali-Linux.
+      - <b>Cloud services</b>: Azure, Repl.it, DevOps, Docker.
+      - An E-Commerce Project: I am writing an e-commerce site using Django, JavaScript, HTML, CSS, and MySQL.
+      - Portfolio: A portfolio project, written in ReactJS. Link in my Github profile page.
+      - A frontend project for a hypothetical restaurant, written in JavaScript, and BootStrap.`
      ];
 
     
