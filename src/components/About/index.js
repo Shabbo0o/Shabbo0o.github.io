@@ -95,17 +95,26 @@ const About = () => {
         <h2>
           Lexicon AB / Stockholm / Sep 2023 - Present
         </h2>
-        <p>I am working in a boot camp, where I am enhancing my skills in front-end, back-end, cloud, security, and more. 
-        <br></br>
-        <b>Python programming basics:</b> HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
-        <br></br>
-        <b>Python programming Advanced:</b> Object Oriented, Web development, Django.
-        <br></br>
-        <b>Database:</b> SQL, NoSQL, MongoDB, MySQL, SQLite.
-        <br></br>
-        <b>IT-security:</b> Penetration testing, Ethical Hacking, SQL injections, Social Engineering. Virtual Machines, Kali-Linux.
-        <br></br>
-        <b>Cloud services:</b> Azure, Repl.it, DevOps, Docker.
+        <p>
+        //       I am working in a boot camp, where I am enhancing my skills in front-end, back-end, cloud, security, and more. 
+        // <br></br>
+        // <b>Python programming basics:</b> HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
+        // <br></br>
+        // <b>Python programming Advanced:</b> Object Oriented, Web development, Django.
+        // <br></br>
+        // <b>Database:</b> SQL, NoSQL, MongoDB, MySQL, SQLite.
+        // <br></br>
+        // <b>IT-security:</b> Penetration testing, Ethical Hacking, SQL injections, Social Engineering. Virtual Machines, Kali-Linux.
+        // <br></br>
+        // <b>Cloud services:</b> Azure, Repl.it, DevOps, Docker.
+      - <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.<br></br>
+      - <b>Methodology</b>: Scrum/Agile, GitHub.<br></br>
+      - <b>Database</b>: MySQL, MongoDB, SQLite.<br></br>
+      - <b>IT security</b>: Penetration testing, Ethical Hacking, SQL injections, Social Engineering, Virtual Machines, Kali-Linux.<br></br>
+      - <b>Cloud services</b>: Azure, Repl.it, DevOps, Docker.<br></br>
+      - An E-Commerce Project: I am writing an e-commerce site using Django, JavaScript, HTML, CSS, and MySQL.<br></br>
+      - <b>Portfolio</b>: A portfolio project, written in ReactJS. Link in my Github profile page.<br></br>
+      - A frontend project for a hypothetical restaurant, written in JavaScript, and BootStrap.
         {/* <a href='#'>More</a> */}
         </p>
         {/* <p>
