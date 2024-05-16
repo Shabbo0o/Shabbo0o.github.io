@@ -33,25 +33,16 @@ const About = () => {
 
   const renderExperienceParagraphs = () => {
     const allParagraphs = [
-      // `Python programming basics: HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
-      // Python programming Advanced: Object Oriented, Web development, Django.
-      // Database: SQL, NoSQL, MongoDB, MySQL, SQLite.
-      // IT-security: Penetration testing, Ethical Hacking, SQL injections, Social Engineering.
-      // Virtual Machines, Kali-Linux.
-      // Cloud services: Azure, Repl.it, DevOps, Docker.`,
-      // `Working with <b>visual editors</b> like <b>Webflow</b> enriched my <b>frontend development</b> skills. This journey, from intern to project leader, has honed my leadership and technical abilities, making me adept for a frontend developer role.`,
-      // `I was responsible and a lead for the Requirement Analysis, <b>Database Design</b>, creating the <b>Use Case documents</b>, <b>Class diagram</b>, Test Case, and other relevant subjects.`
-     `- <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.
-      - <b>Methodology</b>: Scrum/Agile, GitHub.
-      - <b>Database</b>: MySQL, MongoDB, SQLite.
-      - <b>IT security</b>: Penetration testing, Ethical Hacking, SQL injections, Social Engineering, Virtual Machines, Kali-Linux.
-      - <b>Cloud services</b>: Azure, Repl.it, DevOps, Docker.
-      - An E-Commerce Project: I am writing an e-commerce site using Django, JavaScript, HTML, CSS, and MySQL.
-      - Portfolio: A portfolio project, written in ReactJS. Link in my Github profile page.
-      - A frontend project for a hypothetical restaurant, written in JavaScript, and BootStrap.`
-     ];
+      `Python programming basics: HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
+      Python programming Advanced: Object Oriented, Web development, Django.
+      Database: SQL, NoSQL, MongoDB, MySQL, SQLite.
+      IT-security: Penetration testing, Ethical Hacking, SQL injections, Social Engineering.
+      Virtual Machines, Kali-Linux.
+      Cloud services: Azure, Repl.it, DevOps, Docker.`,
+      `Working with <b>visual editors</b> like <b>Webflow</b> enriched my <b>frontend development</b> skills. This journey, from intern to project leader, has honed my leadership and technical abilities, making me adept for a frontend developer role.`,
+      `I was responsible and a lead for the Requirement Analysis, <b>Database Design</b>, creating the <b>Use Case documents</b>, <b>Class diagram</b>, Test Case, and other relevant subjects.`
+    ];
 
-    
     // if (showMoreExperience) {
     //   return paragraphs.map((sentence, index) => <p key={index}>{sentence}</p>);
     // } else {
@@ -93,21 +84,28 @@ const About = () => {
           />
         </h1>
         <h2>
-          Lexicon AB / Stockholm / Sep 2023 - Present
+          Yayloh / Stockholm / Feb 2024 - Present
         </h2>
         <p>
-        //       I am working in a boot camp, where I am enhancing my skills in front-end, back-end, cloud, security, and more. 
-        // <br></br>
-        // <b>Python programming basics:</b> HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
-        // <br></br>
-        // <b>Python programming Advanced:</b> Object Oriented, Web development, Django.
-        // <br></br>
-        // <b>Database:</b> SQL, NoSQL, MongoDB, MySQL, SQLite.
-        // <br></br>
-        // <b>IT-security:</b> Penetration testing, Ethical Hacking, SQL injections, Social Engineering. Virtual Machines, Kali-Linux.
-        // <br></br>
-        // <b>Cloud services:</b> Azure, Repl.it, DevOps, Docker.
-      - <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.<br></br>
+          In this company, I am working as a <b>full-stack developer</b>.<br />
+          Technologies: <b>Python, Flask, JavaScript, React, MySQL.</b> <br />
+        </p>
+        <h2>
+          Lexicon AB / Stockholm / Sep 2023 - Feb 2024
+        </h2>
+        <p>
+          I have worked at a boot camp where I enhanced my skills in front-end, back-end, cloud computing, security, and more.
+        <br></br>
+        {/* <b>Python programming basics:</b> HTML, CSS, JavaScript, Python, Scum/Agile, UI/UX, GitHub.
+        <br></br>
+        <b>Python programming Advanced:</b> Object Oriented, Web development, Django.
+        <br></br>
+        <b>Database:</b> SQL, NoSQL, MongoDB, MySQL, SQLite.
+        <br></br>
+        <b>IT-security:</b> Penetration testing, Ethical Hacking, SQL injections, Social Engineering. Virtual Machines, Kali-Linux.
+        <br></br>
+        <b>Cloud services:</b> Azure, Repl.it, DevOps, Docker. */}
+        - <b>Technologies</b>: Python, Django, JavaScript, ReactJS, UI/UX.<br></br>
       - <b>Methodology</b>: Scrum/Agile, GitHub.<br></br>
       - <b>Database</b>: MySQL, MongoDB, SQLite.<br></br>
       - <b>IT security</b>: Penetration testing, Ethical Hacking, SQL injections, Social Engineering, Virtual Machines, Kali-Linux.<br></br>
@@ -131,17 +129,17 @@ const About = () => {
         {/* <a href='#'>More</a> */}
         </p>
         <h2>
-          Dade Pardazi Kharazmi / Tehran - Iran / 2013 - 2015
+          Dade Pardazi Kharazmi / Tehran - Iran / Aug 2013 - Apr 2018
         </h2>
         <p>I served as a business analyst in the ﬁnancial sector. Our clients were major banks in Iran and I was involved in multiple projects. I was responsible and a lead for the Requirement Analysis, <b>Database Design</b>, creating the <b>Use Case documents</b>, <b>Class diagram</b>, Test Case, and other relevant subjects.
         {/* <a href='#'>More</a> */}
         </p>
         <h2>
-          Torfe Negar / Tehran - Iran / 2011 - 2013
+          Torfe Negar / Tehran - Iran / May 2011 - Jul 2013
         </h2>
         <p>Analysing Logistic and Financial Systems.  Testing the software to verify that it meets the demands of the requirements.</p>
         <h2>
-          Rahnemoode Faragir / Tehran - Iran / 2009 - 2011
+          Rahnemoode Faragir / Tehran - Iran / Sep 2009 - Apr 2011
         </h2>
         <p>Developing financial and HR systems. Working with Delphi and SQL Server. The work involved highly complex SQL queries and procedures as means to create many heavy-loaded ﬁnancial reports.</p>
         <h1>
@@ -153,19 +151,19 @@ const About = () => {
           />
         </h1>
         <h2>
-        Lexicon AB / Sweden / 2023 - Present
+        Lexicon AB / Sweden / Sep 2023 - Feb 2024
         </h2>
         <p>Python and IT security program.</p>
         <h2>
-        Linnaeus University / Sweden / 2021 - Present
+        Linnaeus University / Sweden / Jan 2021 - Aug  2023
         </h2>
         <p>Social Media and Web Technologies. M.Sc.</p>
         <h2>
-        Iran University of Science and Technology University / Iran / 2012 - 2013
+        Iran University of Science and Technology University / Iran / Jan 2012 - Aug 2013
         </h2>
         <p>Management and Productivity. M.Sc.</p>
         <h2>
-          Azad University / Iran / 2003 - 2008
+          Azad University / Iran / Sep 2003 - Jun 2008
         </h2>
         <p>Computer Science. B.Sc.</p>
         <br/>
