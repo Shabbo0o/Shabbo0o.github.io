@@ -130,6 +130,16 @@
     padding: 2rem 1rem;
     position: static;
     padding-left: 3rem;
+
+    h1 {
+      font-size: 38px;
+      line-height: 1.6;
+      color: #fff;
+    }
+    h2 {
+      font-size: 16px;
+      margin-top: 0.5rem;
+    }
   }
 
 .text-zone,
@@ -160,29 +170,25 @@
     line-height: 1.4;
   }
   
-  .mobile-title {
-    display: none;
-    text-align: center;
-    margin-top: 2rem;
+  // .mobile-title {
+  //   display: none;
+  //   text-align: center;
+  //   margin-top: 2rem;
   
-    h1 {
-      font-size: 28px;
-      color: #fff;
-    }
+      
+  //   h2 {
+  //     font-size: 18px;
+  //     color: #ffc85d;
+  //     margin: 0.5rem 0;
+  //   }
   
-    h2 {
-      font-size: 18px;
-      color: #ffc85d;
-      margin: 0.5rem 0;
-    }
-  
-    .mobile-sub {
-      font-size: 14px;
-      color: #ccc;
-      line-height: 1.5;
-      padding: 0 1rem;
-    }
-  }
+    // .mobile-sub {
+    //   font-size: 14px;
+    //   color: #ccc;
+    //   line-height: 1.9;
+    //   padding: 0 1rem;
+    // }
+  // }
   
 
 .mobile-photo {
@@ -211,15 +217,15 @@
     display: block;
   }
 
-  h1 {
-    font-size: 32px;
-    line-height: 1.2;
-  }
+  // h1 {
+  //   font-size: 28px;
+  //   line-height: 1.2;
+  // }
 
-  h2 {
-    font-size: 16px;
-    margin-top: 0.5rem;
-  }
+  // h2 {
+  //   font-size: 16px;
+  //   margin-top: 0.5rem;
+  // }
   .desktop-title,
   .desktop-sub {
   display: none;

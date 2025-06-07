@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.61476603.css",
-    "main.js": "/portfolio/static/js/main.1e3e96b6.js",
-    "static/js/787.aa842f5a.chunk.js": "/portfolio/static/js/787.aa842f5a.chunk.js",
-    "static/media/pastry.jpg": "/portfolio/static/media/pastry.b2ad3c878f6c888997c9.jpg",
-    "static/media/war-game.jpg": "/portfolio/static/media/war-game.184c231981beb36a949a.jpg",
-    "static/media/coolvetica_rg.ttf": "/portfolio/static/media/coolvetica_rg.3d81d0e1fdbd5f69b232.ttf",
-    "static/media/logo-subtitle.png": "/portfolio/static/media/logo-subtitle.22727bbc1c7a1686054e.png",
-    "static/media/student-management.jpg": "/portfolio/static/media/student-management.a75fd8bf760f1e175b0c.jpg",
-    "static/media/La_Belle_Aurore.ttf": "/portfolio/static/media/La_Belle_Aurore.bc43b15661f3e942b3f6.ttf",
-    "static/media/logo-s.png": "/portfolio/static/media/logo-s.58a0566488d8df9e5ebe.png",
-    "static/media/guess-number.jpg": "/portfolio/static/media/guess-number.ea8723ec24bc66567936.jpg",
-    "static/media/HelveticaNeue.ttf": "/portfolio/static/media/HelveticaNeue.081689ede9bac00ebc91.ttf",
-    "index.html": "/portfolio/index.html",
-    "main.61476603.css.map": "/portfolio/static/css/main.61476603.css.map",
-    "main.1e3e96b6.js.map": "/portfolio/static/js/main.1e3e96b6.js.map",
-    "787.aa842f5a.chunk.js.map": "/portfolio/static/js/787.aa842f5a.chunk.js.map"
+    "main.css": "/static/css/main.11f04c8d.css",
+    "main.js": "/static/js/main.32716620.js",
+    "static/js/787.aa842f5a.chunk.js": "/static/js/787.aa842f5a.chunk.js",
+    "static/media/guess-number.png": "/static/media/guess-number.debdcf8624560514f024.png",
+    "static/media/react-todo-list.png": "/static/media/react-todo-list.479c8ecf373c4b1dfac9.png",
+    "static/media/bank-site.png": "/static/media/bank-site.6f75ee40eb21a31a6a12.png",
+    "static/media/news-website.png": "/static/media/news-website.e2533cddd67258cbc870.png",
+    "static/media/ai-travel.png": "/static/media/ai-travel.81d8ffffcba78069624b.png",
+    "static/media/student-management.png": "/static/media/student-management.e0840557919f4a448eaa.png",
+    "static/media/pastry.jpg": "/static/media/pastry.b2ad3c878f6c888997c9.jpg",
+    "static/media/logo-subtitle.png": "/static/media/logo-subtitle.11486d577dbf96648f50.png",
+    "static/media/war-game.jpg": "/static/media/war-game.184c231981beb36a949a.jpg",
+    "static/media/coolvetica_rg.ttf": "/static/media/coolvetica_rg.3d81d0e1fdbd5f69b232.ttf",
+    "static/media/La_Belle_Aurore.ttf": "/static/media/La_Belle_Aurore.bc43b15661f3e942b3f6.ttf",
+    "static/media/HelveticaNeue.ttf": "/static/media/HelveticaNeue.081689ede9bac00ebc91.ttf",
+    "index.html": "/index.html",
+    "main.11f04c8d.css.map": "/static/css/main.11f04c8d.css.map",
+    "main.32716620.js.map": "/static/js/main.32716620.js.map",
+    "787.aa842f5a.chunk.js.map": "/static/js/787.aa842f5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61476603.css",
-    "static/js/main.1e3e96b6.js"
+    "static/css/main.11f04c8d.css",
+    "static/js/main.32716620.js"
   ]
 }

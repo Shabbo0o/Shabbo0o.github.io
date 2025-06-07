@@ -31,7 +31,7 @@ const Home = () => {
                         <br />
                         <span className={`${letterClass} _13`}>I</span>
                         <span className={`${letterClass} _14`}>'m</span>
-                        <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={21} />
+                        <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={8} />
                         <br />
                         <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={21} />
                     </h1>
