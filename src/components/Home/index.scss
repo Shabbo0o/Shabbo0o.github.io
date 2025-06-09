@@ -4,7 +4,8 @@
   align-items: center;
   padding: 2rem;
   position: relative;
-
+  
+  
   .text-zone {
     width: 50%;
     max-height: 90%;
@@ -15,6 +16,7 @@
     transform: translateY(-50%);
   }
   
+
   h1 {
     color: #d2d2d2;
     font-size: 56px;
@@ -69,6 +71,7 @@
     }
   }
 
+
   .stage-cube-cont {
     width: 50%;
     height: 100%;
@@ -110,6 +113,10 @@
     .face6-home { transform: rotateX(-90deg) translateZ(150px); }
   }
 }
+.mobile-job-array {
+  display: none;
+}
+
 
 @keyframes spincube {
   from, to { transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg); }
@@ -131,6 +138,10 @@
     position: static;
     padding-left: 3rem;
 
+    .mobile-job-array {
+      display:block;
+    }
+    
     h1 {
       font-size: 38px;
       line-height: 1.6;
@@ -170,6 +181,9 @@
     line-height: 1.4;
   }
   
+  .desktop-job-array {
+    display: none;
+  }
   // .mobile-title {
   //   display: none;
   //   text-align: center;

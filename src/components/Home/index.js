@@ -13,6 +13,8 @@ const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
     const nameArray = [' ', 'S', 'h', 'a', 'b', 'b', 'o', 'o'];
     const jobArray = ['A', ' ', 'F', 'r', 'o', 'n', 't', 'e', 'n', 'd', ' ','D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.' ];
+    const jobArray_mobile1 = ['A', ' ', 'F', 'r', 'o', 'n', 't', 'e', 'n', 'd', ' ' ];
+    const jobArray_mobile2 = ['D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.' ];
 
     useEffect(() => {
         const timeoutId = setTimeout(() => {
@@ -33,7 +35,13 @@ const Home = () => {
                         <span className={`${letterClass} _14`}>'m</span>
                         <AnimatedLetters letterClass={letterClass} strArray={nameArray} idx={8} />
                         <br />
-                        <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={21} />
+                        <p className='desktop-job-array'>
+                            <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={21} />
+                        </p>
+                        <p className='mobile-job-array'>
+                            <AnimatedLetters letterClass={letterClass} strArray={jobArray_mobile1} idx={12} /><br></br>
+                            <AnimatedLetters letterClass={letterClass} strArray={jobArray_mobile2} idx={21} />
+                        </p>
                     </h1>
 
                     <h2 className="desktop-sub">
@@ -72,8 +80,6 @@ const Home = () => {
                 </div>
 
                 <div className="mobile-photo">
-                    {/* <img src="/images/shabboo.jpg" alt="Shabboo" /> */}
-                    {/* <img src="../../assets/images/shabboo.jpg" alt="Shabboo" /> */}
                     <img className='sub-logo my-img ' src={LogoSubtitle} alt='shabbooLogo' />
                 </div>
             </div>
