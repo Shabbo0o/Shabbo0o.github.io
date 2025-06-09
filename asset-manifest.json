@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.c8f82a0a.css",
-    "main.js": "/static/js/main.a7e40408.js",
+    "main.js": "/static/js/main.7efce283.js",
     "static/js/787.aa842f5a.chunk.js": "/static/js/787.aa842f5a.chunk.js",
     "static/media/guess-number.png": "/static/media/guess-number.debdcf8624560514f024.png",
-    "static/media/react-todo-list.png": "/static/media/react-todo-list.479c8ecf373c4b1dfac9.png",
     "static/media/bank-site.png": "/static/media/bank-site.6f75ee40eb21a31a6a12.png",
     "static/media/news-website.png": "/static/media/news-website.e2533cddd67258cbc870.png",
     "static/media/ai-travel.png": "/static/media/ai-travel.81d8ffffcba78069624b.png",
     "static/media/student-management.png": "/static/media/student-management.e0840557919f4a448eaa.png",
     "static/media/pastry.jpg": "/static/media/pastry.b2ad3c878f6c888997c9.jpg",
+    "static/media/todo-react-native.png": "/static/media/todo-react-native.3986eb50e772711ce60e.png",
     "static/media/logo-subtitle.png": "/static/media/logo-subtitle.11486d577dbf96648f50.png",
     "static/media/war-game.jpg": "/static/media/war-game.184c231981beb36a949a.jpg",
     "static/media/coolvetica_rg.ttf": "/static/media/coolvetica_rg.3d81d0e1fdbd5f69b232.ttf",
@@ -17,11 +17,11 @@
     "static/media/HelveticaNeue.ttf": "/static/media/HelveticaNeue.081689ede9bac00ebc91.ttf",
     "index.html": "/index.html",
     "main.c8f82a0a.css.map": "/static/css/main.c8f82a0a.css.map",
-    "main.a7e40408.js.map": "/static/js/main.a7e40408.js.map",
+    "main.7efce283.js.map": "/static/js/main.7efce283.js.map",
     "787.aa842f5a.chunk.js.map": "/static/js/787.aa842f5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8f82a0a.css",
-    "static/js/main.a7e40408.js"
+    "static/js/main.7efce283.js"
   ]
 }
