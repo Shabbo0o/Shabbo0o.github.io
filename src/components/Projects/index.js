@@ -9,7 +9,7 @@ import WarGame from '../../assets/images/war-game.jpg';
 import StudentManagement from '../../assets/images/student-management.png';
 import Pastry from '../../assets/images/pastry.jpg';
 import GuessNumber from '../../assets/images/guess-number.png';
-import TodoList from '../../assets/images/react-todo-list.png';
+import TodoApp from '../../assets/images/todo-react-native.png';
 import AITravel from '../../assets/images/ai-travel.png';
 import Bank from '../../assets/images/bank-site.png';
 import News from '../../assets/images/news-website.png';
@@ -41,10 +41,10 @@ const Projects = () => {
     //   description: 'This project is an AI-powered Travel Guide that generates detailed travel plans and translates common phrases into the local language of a specified city or country.',
     },
     {
-      image: TodoList,
-      alt: 'Todo List',
-      link: 'https://github.com/Shabbo0o/react-todo-list',
-    //   description: 'The provided small project represents a Python implementation of a simple card game known as "War".',
+      image: TodoApp,
+      alt: 'Todo App',
+      link: 'https://github.com/Shabbo0o/todo-react-native',
+    //   description: 'The provided small Todo Application built with React Native.',
     },
     {
       image: GuessNumber,
