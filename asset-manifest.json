@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.11f04c8d.css",
-    "main.js": "/static/js/main.32716620.js",
+    "main.css": "/static/css/main.c8f82a0a.css",
+    "main.js": "/static/js/main.a7e40408.js",
     "static/js/787.aa842f5a.chunk.js": "/static/js/787.aa842f5a.chunk.js",
     "static/media/guess-number.png": "/static/media/guess-number.debdcf8624560514f024.png",
     "static/media/react-todo-list.png": "/static/media/react-todo-list.479c8ecf373c4b1dfac9.png",
@@ -16,12 +16,12 @@
     "static/media/La_Belle_Aurore.ttf": "/static/media/La_Belle_Aurore.bc43b15661f3e942b3f6.ttf",
     "static/media/HelveticaNeue.ttf": "/static/media/HelveticaNeue.081689ede9bac00ebc91.ttf",
     "index.html": "/index.html",
-    "main.11f04c8d.css.map": "/static/css/main.11f04c8d.css.map",
-    "main.32716620.js.map": "/static/js/main.32716620.js.map",
+    "main.c8f82a0a.css.map": "/static/css/main.c8f82a0a.css.map",
+    "main.a7e40408.js.map": "/static/js/main.a7e40408.js.map",
     "787.aa842f5a.chunk.js.map": "/static/js/787.aa842f5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11f04c8d.css",
-    "static/js/main.32716620.js"
+    "static/css/main.c8f82a0a.css",
+    "static/js/main.a7e40408.js"
   ]
 }
