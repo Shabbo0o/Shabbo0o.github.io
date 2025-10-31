@@ -56,7 +56,7 @@ const Sidebar = () => {
                     <a
                     target='_blank'
                     rel='noreferrer'
-                    href='https://www.linkedin.com/in/shabboo-zamanian/'
+                    href='https://www.linkedin.com/in/anna-zamanian/'
                     data-tooltip="LinkedIn"
                     >
                         <FontAwesomeIcon icon={faLinkedin} color="#919196" />
