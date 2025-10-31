@@ -55,7 +55,7 @@ const Contact = () => {
           and I welcome any inquiries or discussions you may have regarding my interest and qualifications 
           in the field.
           </p>
-          <p><b>shabboo.zamanian@gmail.com </b></p>
+          <p><b>anna.zamanian@gmail.com </b></p>
           {/* <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
               <ul>
@@ -83,7 +83,7 @@ const Contact = () => {
             <MapContainer center={[59.33352, -341.93587]} zoom={10}>
               <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
               <Marker position={[59.33352, -341.93587]}>
-                <Popup>Shabboo lives in Stockholm.</Popup>
+                <Popup>Anna lives in Stockholm.</Popup>
               </Marker>
             </MapContainer>
           </div>

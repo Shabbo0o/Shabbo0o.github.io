@@ -11,7 +11,7 @@ import LogoSubtitle from '../../assets/images/logo-subtitle.png';
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
-    const nameArray = [' ', 'S', 'h', 'a', 'b', 'b', 'o', 'o'];
+    const nameArray = [' ', 'A', 'n', 'n', 'a'];
     const jobArray = ['A', ' ', 'F', 'r', 'o', 'n', 't', 'e', 'n', 'd', ' ','D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.' ];
     const jobArray_mobile1 = ['A', ' ', 'F', 'r', 'o', 'n', 't', 'e', 'n', 'd', ' ' ];
     const jobArray_mobile2 = ['D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r', '.' ];
